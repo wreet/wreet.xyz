@@ -1,11 +1,16 @@
 ---
 layout: default
-title: About
+title: about
 ---
 
-This is where you would but a short bio, and/or a description of your site. It also serves as an example of how to set up a standalone page. For example:
+Welcome to wreet.xyz, my latest attempt to organize my security tools, tutorials, bugs and thoughts. 
 
-<img src="/images/shakespeare.png" class="right" />
-**William Shakespeare** (26 April 1564 – 23 April 1616) was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon". His extant works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and a few other verses, the authorship of some of which is uncertain. His plays have been translated into every major living language and are performed more often than those of any other playwright.
+This blog will serve as a place to release the latest versions of my fuzzers, along with instructions for using them and changes I intend to make in the future, including new features, bug fixes, etc. I also plan to drop the occasional bug, or comments on news from the infosec community. 
 
-Shakespeare was born and brought up in Stratford-upon-Avon. At the age of 18, he married Anne Hathaway—no, not *that* Anne Hathaway—with whom he had three children.
+Additionally, I will also host some of the tools I use for my work as a webapp pentester, such as XSS helpers and attack payloads. 
+
+**About me**
+
+I am an infosec enthusiast from Denver, CO currently living in Mexico. My interests are mostly fuzzing and exploit development, and writing custom tooling in this area. My most recent full-time position was as an Application Security Engineer at SendGrid. My duties included penetration testing, security tool development, AWS security and risk management. 
+
+If you'd like to know more, or simply want to chat, drop me a line at chase [at] wreet [dot] xyz.

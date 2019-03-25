@@ -1,6 +1,21 @@
+html::-webkit-scrollbar-track {
+	background-color: #111111;
+}
+
+html::-webkit-scrollbar {
+	width: auto;
+	background-color: #111111;
+}
+
+html::-webkit-scrollbar-thumb {
+	background-color: #222222;
+}
+
 html, body {
-	background-color: #002a35;
-	color: #839496;
+	background-color: #001d24;
+	color: #8c9c9e;
+	scrollbar-color: #222222 #111111;
+	scrollbar-width: auto;
 }
 
 a, a:visited, a:active {
